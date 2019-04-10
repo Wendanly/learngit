@@ -7,3 +7,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 sdf 多少 
+
+
+Creating a new branch is quick.
